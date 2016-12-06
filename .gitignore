@@ -7,3 +7,6 @@
 # --- Python ---
 venv
 *.pyc
+
+# --- Nginx ---
+nginx.pid
